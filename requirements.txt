@@ -1,8 +1,8 @@
 
 streamlit
-imageio
-moviepy
-decord
+torch==2.7.1
+torchvision==0.22.1
+torchaudio
 transformers
 diffusers
 xformers
@@ -11,7 +11,10 @@ einops
 Pillow
 accelerate
 scipy
-torch==2.7.1
-torchvision==0.22.1
-torchaudio
 ftfy
+imageio
+moviepy
+decord
+opencv-python
+numpy
+tqdm
