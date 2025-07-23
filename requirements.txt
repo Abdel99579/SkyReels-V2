@@ -17,4 +17,5 @@ moviepy
 decord
 opencv-python
 numpy
-tqdm
+tqdm 
+moviepy.editor
